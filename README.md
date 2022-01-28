@@ -1,7 +1,7 @@
 # Team KFC (Kentucky French Chat)
 
 
-### Contributors
+## Contributors
 * [Théo Laberrondo](https://github.com/Namacha0908) 
 * [Alex Guillemin](https://github.com/AlexGuillemin91)
 * [Antoine Savelli](https://github.com/Antoine75)
@@ -9,29 +9,29 @@
 * [Dylan Stienne](https://github.com/Dylan-Stienne)
 
 
-### Installation & lancement
-## Back
+## Installation & lancement
+### Back
 1. Se rendre dans le dossier back `cd back/`
 2. Installer les packages node `npm install`
 3. Lancer lee server local `npm run start`
-## Front
+### Front
 1. Se rendre dans le dossier front `cd front/`
 2. Installer les packages node `npm install`
 3. Lancer lee server local `npm run dev`
 
 
-### Identfiants de test
-## Compte A
-Email `dylan@gmail.com`
-Mot de passe `123`
-## Compte B
-Email `martin@gmail.com`
-Mot de passe `123`
-## Compte personnalsé
+## Identfiants de test
+### Compte A
+* Email `dylan@gmail.com`
+* Mot de passe `123`
+### Compte B
+* Email `martin@gmail.com`
+* Mot de passe `123`
+### Compte personnalsé
 Rendez-vous sur la page /register pour vous créer un compte
 
 
-### Technologies du projet
+## Technologies du projet
 - Node.js
 - Express
 - Mongodb Atlas
@@ -43,7 +43,7 @@ Rendez-vous sur la page /register pour vous créer un compte
 - JWT
 
 
-### Fonctionnalités implémentés au projet
+## Fonctionnalités implémentés au projet
 - Création d'une api REST en node:
     - GET / (pour tester que l'api est fonctionnelle)
     - POST /auth/login (se connecter)
