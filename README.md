@@ -2,11 +2,11 @@
 
 
 ### Contributors
-[Théo Laberrondo](https://github.com/Namacha0908) 
-[Alex Guillemin](https://github.com/AlexGuillemin91)
-[Antoine Savelli](https://github.com/Antoine75)
-[Martin De Boutray](https://github.com/MBoutray)
-[Dylan Stienne](https://github.com/Dylan-Stienne)
+* [Théo Laberrondo](https://github.com/Namacha0908) 
+* [Alex Guillemin](https://github.com/AlexGuillemin91)
+* [Antoine Savelli](https://github.com/Antoine75)
+* [Martin De Boutray](https://github.com/MBoutray)
+* [Dylan Stienne](https://github.com/Dylan-Stienne)
 
 
 ### Installation & lancement
